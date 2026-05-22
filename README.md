@@ -4,23 +4,29 @@
 This project demonstrates GPU acceleration using CUDA through CuPy and OpenCV in Google Colab. The project compares CPU and GPU execution times for image processing operations including grayscale conversion, Gaussian blur, and edge detection.
 
 ## Features
+```
 CUDA GPU acceleration
 Image filtering
 CPU vs GPU comparison
 Performance visualization
+```
 
 ## Technologies
+```
 Python
 CUDA
 CuPy
 OpenCV
 Google Colab
+```
 
 ## How to Run
+```
 Open Google Colab
 Enable GPU runtime
 Run all cells
 Upload image when prompted
+```
 
 ## Program
 ```
